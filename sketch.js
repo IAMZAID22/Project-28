@@ -52,7 +52,7 @@ function setup() {
 
 function draw() {
 
-  background(230);
+  background(0);
   //frameRate(2)
  // Engine.update(engine)
   textSize(25);
